@@ -12,7 +12,7 @@ A beginner-friendly Python script that evaluates password strength based on seve
 - Classifies passwords from Very Weak to Very Strong
 
 ## Requirements
-
+ 
 - Python 3.14 or a compatible Python 3 version
 
 ## How to Run
